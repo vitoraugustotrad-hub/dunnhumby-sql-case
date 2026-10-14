@@ -1,0 +1,4 @@
+campaign_type,hh_treat,hh_ctrl,did_pct,did_ci_low,did_ci_high,placebo_pct,placebo_ci_low,placebo_ci_high,adjusted_pct,adjusted_ci_low,adjusted_ci_high
+TypeA,1513,1314,-3.0,-9.5,3.5,-4.8,-11.1,1.4,1.9,-0.9,4.6
+TypeB,1023,1332,-4.4,-11.7,2.9,-5.9,-13.3,1.5,1.5,-1.0,4.0
+TypeC,397,1126,-9.6,-19.1,0.0,-12.9,-22.3,-3.6,3.4,-1.2,8.0

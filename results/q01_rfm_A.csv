@@ -1,0 +1,8 @@
+segment,households,pct_households,pct_sales,avg_recency_days,avg_baskets_52w,avg_spend_52w
+1. Champions,734,29.4,62.2,2,116,3569
+2. Loyal,482,19.3,18.3,5,54,1601
+"3. Recent, low engagement",331,13.2,4.3,3,23,548
+4. At risk,181,7.2,7.8,36,54,1821
+5. Needs attention,143,5.7,1.8,11,21,530
+6. Hibernating,607,24.3,5.6,68,15,389
+7. Lost,22,0.9,0.0,,0,0

@@ -1,0 +1,5 @@
+status,households,pct_households,sales_52w,pct_sales,avg_median_gap,avg_current_gap
+1. Paused,339,13.6,325179,7.7,8.1,78
+2. Late,66,2.6,132865,3.2,7.1,20
+3. Normal,1956,78.2,3742959,88.8,8.0,8
+4. Not enough history,139,5.6,13086,0.3,69.4,163

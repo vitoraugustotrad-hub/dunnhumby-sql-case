@@ -1,0 +1,6 @@
+check_name,n
+campaign_table row with no campaign description,0
+redemption by a household that did not receive the campaign,0
+redemption of a non-existent coupon,0
+demographics for a household with no transactions,0
+transaction with product missing from catalog,0

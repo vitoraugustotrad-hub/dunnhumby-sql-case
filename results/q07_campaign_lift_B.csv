@@ -1,0 +1,4 @@
+campaign_type,pct_spend_on_coupon_products,treat_pre_per_day,treat_change_pct,ctrl_change_pct,did_lift_pct,placebo_pct,adjusted_lift_pct
+TypeA,40.4,2.919,0.3,7.9,-7.1,-5.8,-1.2
+TypeB,1.8,0.183,2.2,8.4,-5.7,-12.6,6.9
+TypeC,0.7,0.072,5.7,10.3,-4.2,-21.5,17.3

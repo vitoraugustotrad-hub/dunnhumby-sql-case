@@ -1,0 +1,4 @@
+campaign_type,campaigns,avg_duration_days,coupons_per_campaign,sends,sends_per_campaign,sends_with_redemption,redemption_rate_pct,redemptions,coupons_per_redeemer
+TypeA,5,50,204,3979,796,635,16.0,1791,2.8
+TypeB,19,37,15,2655,140,210,7.9,454,2.2
+TypeC,6,67,22,574,96,44,7.7,73,1.7

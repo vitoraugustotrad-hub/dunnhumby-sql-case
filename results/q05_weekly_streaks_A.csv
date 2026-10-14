@@ -1,0 +1,6 @@
+longest_streak,households,pct_sales,avg_spend,pct_active_weeks,avg_longest_absence
+1. under 4 weeks,516,4.8,687,18.1,27.0
+2. 4 to 12,1121,33.3,2171,47.1,11.8
+3. 13 to 26,491,27.6,4105,71.9,6.8
+4. 27 to 52,247,20.4,6046,85.8,4.3
+5. 53 or more,125,13.8,8079,95.8,2.0

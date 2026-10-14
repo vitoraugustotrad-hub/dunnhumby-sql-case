@@ -1,0 +1,4 @@
+campaign_type,n_treat,n_ctrl,treat_pre_per_day,ctrl_pre_per_day,treat_change_pct,ctrl_change_pct,did_lift_pct,placebo_pct,adjusted_lift_pct
+TypeA,3979,3040,7.22,5.52,1.4,4.4,-2.9,-4.8,1.9
+TypeB,2655,9502,10.33,4.95,-2.2,2.2,-4.3,-5.5,1.2
+TypeC,574,1915,10.76,4.76,2.1,11.7,-8.6,-11.9,3.3
